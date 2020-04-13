@@ -1,0 +1,28 @@
+<resources>
+    <!-- Questions -->
+    <string name="app_name">Quiz App</string>
+    <string name="q1">1-What is the meaning of IDE?</string>
+    <string name="q2">2-Which of this attributes use in Textview?</string>
+    <string name="q3">3-What is data type of text in java?</string>
+    <string name="q4">4-Which of this is integer?</string>
+    <string name="q5">5-Which of this use to loop in java?</string>
+    <!-- Answers -->
+    <string name="a1_1">Integrated development environment</string>
+    <string name="a1_2">Internal device environment</string>
+    <string name="a1_3">Integrated design environment</string>
+    <string name="a1_4">Other</string>
+    <string name="a2_1">src</string>
+    <string name="a2_2">textStyle</string>
+    <string name="a2_3">layout_width</string>
+    <string name="a2_4">id</string>
+    <string name="a4_1">32</string>
+    <string name="a4_2">4.99</string>
+    <string name="a4_3">34 + 23</string>
+    <string name="a4_4">Text</string>
+    <string name="a5_1">Loop</string>
+    <string name="a5_2">If</string>
+    <string name="a5_3">Group</string>
+    <string name="a5_4">None of this</string>
+    <string name="result">Result</string>
+
+</resources>
